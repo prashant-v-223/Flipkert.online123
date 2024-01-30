@@ -5,28 +5,28 @@
         "id": 1,
         "title": "Photography",
         "body": "Bootstrap Carousel Example",
-        "imageUrl": "/uploads/4385231220105052.webp",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/qwq1-5f4e5.appspot.com/o/7068230901104221.png?alt=media&token=397b2a73-60b5-4d87-bc14-a9fbb02ec927",
         "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
       },
       {
         "id": 2,
         "title": "City Views",
         "body": "Bootstrap Carousel Example",
-        "imageUrl": "/uploads/7811231220105052.webp",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/qwq1-5f4e5.appspot.com/o/7068230901104221.png?alt=media&token=397b2a73-60b5-4d87-bc14-a9fbb02ec927",
         "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
       },
       {
         "id": 3,
         "title": "Wild Life",
         "body": "Bootstrap Carousel Example",
-        "imageUrl": "/uploads/n.webp",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/qwq1-5f4e5.appspot.com/o/7068230901104221.png?alt=media&token=397b2a73-60b5-4d87-bc14-a9fbb02ec927",
         "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
       },
       {
         "id": 4,
         "title": "Foods and Culture",
         "body": "Bootstrap Carousel Example",
-        "imageUrl": "/uploads/4385231220105052.webp",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/qwq1-5f4e5.appspot.com/o/7068230901104221.png?alt=media&token=397b2a73-60b5-4d87-bc14-a9fbb02ec927",
         "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
       }
     ]
