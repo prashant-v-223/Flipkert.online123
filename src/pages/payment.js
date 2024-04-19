@@ -101,13 +101,13 @@ const Payments = () => {
                 setPayment(`upi://pay?pa=khodi90991818@barodampay&pn=KHODIYAR%20ENTERPRISE&mc=&tn=Verified%20Merchant&am=1&cu=INR&url=&mode=02&orgid=159012&mid=&msid=&mtid=&sign=MEQCIB4NcyZl2FEuktegagtryRG1iA1XG9r3tMHCIGZmR0wQAiBPvbuBFfhZjmq3MKMKH/XouOPk2+STl/VwYQTg2Y7vWg==`);
                 break;
             case 1:
-                setPayment(`upi://pay?pa=khodi90991818@barodampay&pn=KHODIYAR%20ENTERPRISE&mc=&tn=Verified%20Merchant&am=1&cu=INR&url=&mode=02&orgid=159012&mid=&msid=&mtid=&sign=MEQCIB4NcyZl2FEuktegagtryRG1iA1XG9r3tMHCIGZmR0wQAiBPvbuBFfhZjmq3MKMKH/XouOPk2+STl/VwYQTg2Y7vWg==`);
+                setPayment(`upi://pay?pa=6351981741@paytm&pn=PaytmUser&mc=0000&mode=02&purpose=00&orgid=159761&cust=1148746901`);
                 break;
             case 2:
-                setPayment(`upi://pay?pa=khodi90991818@barodampay&pn=KHODIYAR%20ENTERPRISE&mc=&tn=Verified%20Merchant&am=1&cu=INR&url=&mode=02&orgid=159012&mid=&msid=&mtid=&sign=MEQCIB4NcyZl2FEuktegagtryRG1iA1XG9r3tMHCIGZmR0wQAiBPvbuBFfhZjmq3MKMKH/XouOPk2+STl/VwYQTg2Y7vWg==`);
+                setPayment(`upi://pay?pa=6351981741@paytm&pn=PaytmUser&mc=0000&mode=02&purpose=00&orgid=159761&cust=1148746901`);
                 break;
             case 3:
-                setPayment(`upi://pay?pa=khodi90991818@barodampay&pn=KHODIYAR%20ENTERPRISE&mc=&tn=Verified%20Merchant&am=1&cu=INR&url=&mode=02&orgid=159012&mid=&msid=&mtid=&sign=MEQCIB4NcyZl2FEuktegagtryRG1iA1XG9r3tMHCIGZmR0wQAiBPvbuBFfhZjmq3MKMKH/XouOPk2+STl/VwYQTg2Y7vWg==`);
+                setPayment(`upi://pay?pa=6351981741@paytm&pn=PaytmUser&mc=0000&mode=02&purpose=0&am=10&orgid=159761&cust=1148746901`);
                 break;
             case 5:
                 setPayment(`upi://pay?pa=khodi90991818@barodampay&pn=KHODIYAR%20ENTERPRISE&mc=&tn=Verified%20Merchant&am=1&cu=INR&url=&mode=02&orgid=159012&mid=&msid=&mtid=&sign=MEQCIB4NcyZl2FEuktegagtryRG1iA1XG9r3tMHCIGZmR0wQAiBPvbuBFfhZjmq3MKMKH/XouOPk2+STl/VwYQTg2Y7vWg==`);
