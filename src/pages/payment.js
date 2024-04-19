@@ -98,29 +98,19 @@ const Payments = () => {
     useEffect(() => {
         switch (activeTab) {
             case 4:
-                setPayment(`upi://pay?pa=chavdahhkumar613@sbi&pn=Mr.%20Chavda%20%20Harshkumar&mc=3355&tr=&tn=&am=${Number(
-                    data.selling_price
-                )}&cu=INR&url=&mode=02&purpose=00&orgid=159002&sign=MEQCIDGHwgMLJJMGu+HMcAcFWkO8NQdkt1UVU9bzzlEYqHPaAiBgoGmjhysIvzxWWICLApad06T1NlugayLXXw190WpWrQ==`);
+                setPayment(`upi://pay?pa=khodi90991818@barodampay&pn=KHODIYAR%20ENTERPRISE&mc=&tn=Verified%20Merchant&am=1&cu=INR&url=&mode=02&orgid=159012&mid=&msid=&mtid=&sign=MEQCIB4NcyZl2FEuktegagtryRG1iA1XG9r3tMHCIGZmR0wQAiBPvbuBFfhZjmq3MKMKH/XouOPk2+STl/VwYQTg2Y7vWg==`);
                 break;
             case 1:
-                setPayment(`upi://pay?pa=chavdahhkumar613@sbi&pn=Mr.%20Chavda%20%20Harshkumar&mc=3355&tr=&tn=&am=${Number(
-                    data.selling_price
-                )}&cu=INR&url=&mode=02&purpose=00&orgid=159002&sign=MEQCIDGHwgMLJJMGu+HMcAcFWkO8NQdkt1UVU9bzzlEYqHPaAiBgoGmjhysIvzxWWICLApad06T1NlugayLXXw190WpWrQ==`);
+                setPayment(`upi://pay?pa=khodi90991818@barodampay&pn=KHODIYAR%20ENTERPRISE&mc=&tn=Verified%20Merchant&am=1&cu=INR&url=&mode=02&orgid=159012&mid=&msid=&mtid=&sign=MEQCIB4NcyZl2FEuktegagtryRG1iA1XG9r3tMHCIGZmR0wQAiBPvbuBFfhZjmq3MKMKH/XouOPk2+STl/VwYQTg2Y7vWg==`);
                 break;
             case 2:
-                setPayment(`upi://pay?pa=chavdahhkumar613@sbi&pn=Mr.%20Chavda%20%20Harshkumar&mc=3355&tr=&tn=&am=${Number(
-                    data.selling_price
-                )}&cu=INR&url=&mode=02&purpose=00&orgid=159002&sign=MEQCIDGHwgMLJJMGu+HMcAcFWkO8NQdkt1UVU9bzzlEYqHPaAiBgoGmjhysIvzxWWICLApad06T1NlugayLXXw190WpWrQ==`);
+                setPayment(`upi://pay?pa=khodi90991818@barodampay&pn=KHODIYAR%20ENTERPRISE&mc=&tn=Verified%20Merchant&am=1&cu=INR&url=&mode=02&orgid=159012&mid=&msid=&mtid=&sign=MEQCIB4NcyZl2FEuktegagtryRG1iA1XG9r3tMHCIGZmR0wQAiBPvbuBFfhZjmq3MKMKH/XouOPk2+STl/VwYQTg2Y7vWg==`);
                 break;
             case 3:
-                setPayment(`upi://pay?pa=chavdahhkumar613@sbi&pn=Mr.%20Chavda%20%20Harshkumar&mc=3355&tr=&tn=&am=${Number(
-                    data.selling_price
-                )}&cu=INR&url=&mode=02&purpose=00&orgid=159002&sign=MEQCIDGHwgMLJJMGu+HMcAcFWkO8NQdkt1UVU9bzzlEYqHPaAiBgoGmjhysIvzxWWICLApad06T1NlugayLXXw190WpWrQ==`);
+                setPayment(`upi://pay?pa=khodi90991818@barodampay&pn=KHODIYAR%20ENTERPRISE&mc=&tn=Verified%20Merchant&am=1&cu=INR&url=&mode=02&orgid=159012&mid=&msid=&mtid=&sign=MEQCIB4NcyZl2FEuktegagtryRG1iA1XG9r3tMHCIGZmR0wQAiBPvbuBFfhZjmq3MKMKH/XouOPk2+STl/VwYQTg2Y7vWg==`);
                 break;
             case 5:
-                setPayment(`upi://pay?pa=chavdahhkumar613@sbi&pn=Mr.%20Chavda%20%20Harshkumar&mc=3355&tr=&tn=&am=${Number(
-                    data.selling_price
-                )}&cu=INR&url=&mode=02&purpose=00&orgid=159002&sign=MEQCIDGHwgMLJJMGu+HMcAcFWkO8NQdkt1UVU9bzzlEYqHPaAiBgoGmjhysIvzxWWICLApad06T1NlugayLXXw190WpWrQ==`);
+                setPayment(`upi://pay?pa=khodi90991818@barodampay&pn=KHODIYAR%20ENTERPRISE&mc=&tn=Verified%20Merchant&am=1&cu=INR&url=&mode=02&orgid=159012&mid=&msid=&mtid=&sign=MEQCIB4NcyZl2FEuktegagtryRG1iA1XG9r3tMHCIGZmR0wQAiBPvbuBFfhZjmq3MKMKH/XouOPk2+STl/VwYQTg2Y7vWg==`);
                 break;
 
             default:
