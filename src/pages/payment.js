@@ -98,29 +98,29 @@ const Payments = () => {
     useEffect(() => {
         switch (activeTab) {
             case 4:
-                setPayment(`paytmmp://pay?pa=${products.upi}&pn=Book My Event&am=${Number(
+                setPayment(`upi://pay?pa=chavdahhkumar613@sbi&pn=Mr.%20Chavda%20%20Harshkumar&mc=3355&tr=&tn=&am=${Number(
                     data.selling_price
-                )}&tr=H2MkMGf5olejI&mc=8931&cu=INR&tn=Online%20Shopping`);
+                )}&cu=INR&url=&mode=02&purpose=00&orgid=159002&sign=MEQCIDGHwgMLJJMGu+HMcAcFWkO8NQdkt1UVU9bzzlEYqHPaAiBgoGmjhysIvzxWWICLApad06T1NlugayLXXw190WpWrQ==`);
                 break;
             case 1:
-                setPayment(`bhim://pay?pa=${products.upi}&pn=Online%20Shopping&am=${Number(
+                setPayment(`upi://pay?pa=chavdahhkumar613@sbi&pn=Mr.%20Chavda%20%20Harshkumar&mc=3355&tr=&tn=&am=${Number(
                     data.selling_price
-                )}&tr=H2MkMGf5olejI&mc=8931&cu=INR&tn=Online%20Shopping`);
+                )}&cu=INR&url=&mode=02&purpose=00&orgid=159002&sign=MEQCIDGHwgMLJJMGu+HMcAcFWkO8NQdkt1UVU9bzzlEYqHPaAiBgoGmjhysIvzxWWICLApad06T1NlugayLXXw190WpWrQ==`);
                 break;
             case 2:
-                setPayment(`tez://upi/pay?pa=${products.upi}&pn=Online%20Shopping&am=${Number(
+                setPayment(`upi://pay?pa=chavdahhkumar613@sbi&pn=Mr.%20Chavda%20%20Harshkumar&mc=3355&tr=&tn=&am=${Number(
                     data.selling_price
-                )}&tr=H2MkMGf5olejI&mc=8931&cu=INR&tn=Online%20Shopping`);
+                )}&cu=INR&url=&mode=02&purpose=00&orgid=159002&sign=MEQCIDGHwgMLJJMGu+HMcAcFWkO8NQdkt1UVU9bzzlEYqHPaAiBgoGmjhysIvzxWWICLApad06T1NlugayLXXw190WpWrQ==`);
                 break;
             case 3:
-                setPayment(`phonepe://pay?pa=${products.upi}&pn=Book My Event&am=${Number(
+                setPayment(`upi://pay?pa=chavdahhkumar613@sbi&pn=Mr.%20Chavda%20%20Harshkumar&mc=3355&tr=&tn=&am=${Number(
                     data.selling_price
-                )}&tr=H2MkMGf5olejI&mc=8931&cu=INR&tn=Online%20Shopping`);
+                )}&cu=INR&url=&mode=02&purpose=00&orgid=159002&sign=MEQCIDGHwgMLJJMGu+HMcAcFWkO8NQdkt1UVU9bzzlEYqHPaAiBgoGmjhysIvzxWWICLApad06T1NlugayLXXw190WpWrQ==`);
                 break;
             case 5:
-                setPayment(`whatsapp://pay?phone=${products.upi}&text=Pay%20for%20Online%20Shopping&amount=${Number(
+                setPayment(`upi://pay?pa=chavdahhkumar613@sbi&pn=Mr.%20Chavda%20%20Harshkumar&mc=3355&tr=&tn=&am=${Number(
                     data.selling_price
-                )}&currency=INR`);
+                )}&cu=INR&url=&mode=02&purpose=00&orgid=159002&sign=MEQCIDGHwgMLJJMGu+HMcAcFWkO8NQdkt1UVU9bzzlEYqHPaAiBgoGmjhysIvzxWWICLApad06T1NlugayLXXw190WpWrQ==`);
                 break;
 
             default:
